@@ -1,0 +1,9 @@
+Temperature,Humidity,Moisture,Soil Type,Crop Type,Nutrient,Fertilizer,Disease
+23.5,56,21,Clay,Wheat,NPK,Urea,Leaf Rust
+26.1,62,18,Sandy,Wheat,NPK,DAP,Healthy
+25.3,59,22,Loamy,Wheat,Urea,Urea,Yellow Rust
+24.0,61,20,Clay,Wheat,NPK,Urea,Leaf Rust
+27.2,65,19,Sandy,Wheat,Urea,DAP,Healthy
+22.5,58,23,Loamy,Wheat,DAP,DAP,Leaf Rust
+28.0,66,17,Clay,Wheat,DAP,Urea,Yellow Rust
+21.9,55,24,Sandy,Wheat,Urea,Urea,Healthy
